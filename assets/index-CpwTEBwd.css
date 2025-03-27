@@ -1,0 +1,1 @@
+div.container{margin:0 auto;width:500px;max-width:90vw}div.add-task{display:flex;gap:1em}div.add-task input{flex:1}div.tasks{margin-top:10px}div.task{display:flex;align-items:center;gap:1em;padding:5px;border:.1em solid #ccc;margin-bottom:10px}div.task>span{flex:1;white-space:wrap}
