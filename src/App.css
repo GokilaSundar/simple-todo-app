@@ -1,6 +1,7 @@
 div.container {
   margin: 0 auto;
   width: 500px;
+  max-width: 90vw;
 }
 
 div.add-task {
@@ -27,4 +28,5 @@ div.task {
 
 div.task > span {
   flex: 1;
+  white-space: wrap;
 }
